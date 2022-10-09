@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "build": "pxt build",
+        "serve": "pxt serve"
+    },
+    "dependencies": {
+        "pxt-microbit": "^5.1.2"
+    }
+}

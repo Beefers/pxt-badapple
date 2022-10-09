@@ -1,0 +1,20 @@
+{
+    "name": "pxt-badapple",
+    "version": "0.0.0",
+    "description": "Bad Apple!! on the BBC micro:bit (or any PXT device, really)",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "src/index.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "vscode",
+    "license": "BSD-3-Clause"
+}
